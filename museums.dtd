@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT múzeumok (múzeum)+ >
+<!ELEMENT múzeum (név,cím,zárás,kiállítás+)>
+<!ATTLIST múzeum 
+    id ID #REQUIRED>
+<!ELEMENT név (#PCDATA)>
+<!ELEMENT cím (#PCDATA)>
+<!ELEMENT zárás (#PCDATA)>
+<!ATTLIST kiállítás
+	id ID #REQUIRED>
+<!ELEMENT megtekintés (#PCDATA)>

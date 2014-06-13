@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE személyek SYSTEM "people.dtd">
+
+<személyek>
+	<személy id="micimacko">
+		<vezetéknév>Mici</vezetéknév>
+		<keresztnév>Mackó</keresztnév>
+		<születésidátum>1921.08.21</születésidátum>
+		<cím>Százholdas Pagony</cím>
+		<fotó>http://upload.wikimedia.org/wikipedia/en/1/10/Winniethepooh.png
+		</fotó>
+	</személy>
+	<személy id="malacka">
+		<vezetéknév>Malacka</vezetéknév>
+		<keresztnév>Malac</keresztnév>
+		<születésidátum>1921.12.24</születésidátum>
+		<cím>Százholdas Pagony</cím>
+		<fotó>http://upload.wikimedia.org/wikipedia/en/d/dd/Pigletdisney.jpg
+		</fotó>
+	</személy>
+	<személy id="fules">
+		<vezetéknév>Füles</vezetéknév>
+		<keresztnév>Szamár</keresztnév>
+		<születésidátum>1921.12.25</születésidátum>
+		<cím>Százholdas Pagony</cím>
+		<fotó>http://upload.wikimedia.org/wikipedia/en/7/70/Eeyore.gif</fotó>
+		<nyugdíjasigazolvány szám="NY_ABCDEF12" />
+	</személy>
+	<személy id="kyle">
+		<vezetéknév>Broflovski</vezetéknév>
+		<keresztnév>Kyle</keresztnév>
+		<születésidátum>2004.05.05</születésidátum>
+		<cím>South Park</cím>
+		<diákigazolvány szám="D_QWERTY01" />
+	</személy>
+	<személy id="ike">
+		<vezetéknév>Broflovski</vezetéknév>
+		<keresztnév>Ike</keresztnév>
+		<születésidátum>2009.12.12</születésidátum>
+		<cím>South Park</cím>
+	</személy>
+	<személy id="stan">
+		<vezetéknév>Marsh</vezetéknév>
+		<keresztnév>Stan</keresztnév>
+		<születésidátum>2001.10.10</születésidátum>
+		<cím>South Park</cím>
+		<diákigazolvány szám="D_QWERTY02" />
+	</személy>
+	<személy id="stewie">
+		<vezetéknév>Griffin</vezetéknév>
+		<keresztnév>Stewie</keresztnév>
+		<születésidátum>2013.03.12</születésidátum>
+		<cím>Quahog</cím>
+	</személy>
+</személyek>

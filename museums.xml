@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE múzeumok SYSTEM "museums.dtd">
+
+<múzeumok>
+	<múzeum id="szepmuveszeti">
+		<név>Szépművészeti Múzeum</név>
+		<cím>Budapest</cím>
+		<zárás>18:00</zárás>
+		<kiállítás id="ter">
+			<cím>Tér mint TÉR</cím>
+			<megtekintés>60</megtekintés>
+		</kiállítás>
+		<kiállítás id="tolouse">
+			<cím>Tolouse-Lautrec világa</cím>
+			<megtekintés>100</megtekintés>
+		</kiállítás>
+		<kiállítás id="eu">
+			<cím>Európai szobrászat</cím>
+			<megtekintés>90</megtekintés>
+		</kiállítás>
+	</múzeum>
+	<múzeum id="modem">
+		<név>Modem</név>
+		<cím>Debrecen</cím>
+		<zárás>18:00</zárás>
+		<kiállítás id="szabadkez">
+			<cím>Szabadkéz</cím>
+			<megtekintés>60</megtekintés>
+		</kiállítás>
+		<kiállítás id="alfold">
+			<cím>Alföld</cím>
+			<megtekintés>120</megtekintés>
+		</kiállítás>
+		<kiállítás id="antal-lusztig">
+			<cím>Antal-Lusztig gyűjtemény</cím>
+			<megtekintés>40</megtekintés>
+		</kiállítás>
+	</múzeum>
+	<múzeum id="nyusziodu">
+		<név>Nyusziodú</név>
+		<cím>Százholdas Pagony</cím>
+		<zárás>16:30</zárás>
+		<kiállítás id="mmhf">
+			<cím>Micimackó hátsó fele</cím>
+			<megtekintés>5</megtekintés>
+		</kiállítás>
+		<kiállítás id="forgy">
+			<cím>Féltve őrzött répagyűjtemény</cím>
+			<megtekintés>35</megtekintés>
+		</kiállítás>
+		<kiállítás id="sp">
+			<cím>South Park</cím>
+			<megtekintés>75</megtekintés>
+		</kiállítás>
+	</múzeum>
+</múzeumok>

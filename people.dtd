@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT személyek (személy)+ >
+<!ELEMENT személy (vezetéknév,keresztnév, születésidátum, cím, fotó?, (nyugdíjasigazolvány|diákigazolvány)?)>
+<!ATTLIST  személy 
+    id ID #REQUIRED>
+<!ELEMENT vezetéknév (#PCDATA)>
+<!ELEMENT keresztnév (#PCDATA)>
+<!ELEMENT születésidátum (#PCDATA)>
+<!ELEMENT fotó (#PCDATA)>
+<!ELEMENT nyugdíjasigazolvány EMPTY>
+<!ATTLIST nyugdíjasigazolvány
+	szám ID #REQUIRED>
+<!ELEMENT diákigazolvány EMPTY>
+<!ATTLIST diákigazolvány
+	szám ID #REQUIRED>
